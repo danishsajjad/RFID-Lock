@@ -1,0 +1,3 @@
+﻿  Test Cpp.cpp
+c:\users\home sweet home\desktop\rfid lock\test cpp\test cpp.cpp(39): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+  Test Cpp.vcxproj -> C:\Users\Home Sweet Home\Desktop\RFID Lock\Debug\Test Cpp.exe
